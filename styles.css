@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Titillium Web", sans-serif;
+  background-color: #000033;
+  background-image: linear-gradient(60deg, #000033, #000001);
+  color: antiquewhite;
+}
+
+.card{
+   margin: 0;
+  padding: 0;
+  font-family: "Titillium Web", sans-serif;
+  background-color: #000033;
+  background-image: linear-gradient(60deg, #000033, #000001);
+  color: antiquewhite;
+}
+
+.navlink{
+    color: antiquewhite;
+    font-size: 1.1em;
+}
+.navlink:hover {
+  background-color: lightgrey;
+  color: black;
+}
+.navlink-active{
+    background-color: lightgrey;
+    color: black;
+}
